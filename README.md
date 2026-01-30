@@ -1,6 +1,6 @@
-# Quantitative Trading Research Framework
+# Quantitative Trading Bot
 
-A comprehensive quantitative trading bot with backtesting, walk-forward validation, live trading, and multi-asset portfolio support. Implements a volatility-targeted trend strategy (EMA crossover with position sizing) with risk controls and performance metrics.
+A comprehensive quantitative trading bot with backtesting, walk-forward validation, live trading, and multi-asset portfolio support. It implements a volatility-targeted trend strategy (EMA crossover with position sizing), plus risk controls and performance metrics to help evaluate trading decisions.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
